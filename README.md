@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hi there, i'm Aquiles 👋</h1>
 </div>
-<img src="https://imgur.com/5LdwNat">
+<img src="https://imgur.com/a/gbvZPCQ.png">
 
 <!--
 **Achillesdevlogics/Achillesdevlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
