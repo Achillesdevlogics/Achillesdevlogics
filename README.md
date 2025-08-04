@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hi there, i'm Aquiles 👋</h1>
 </div>
-<img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402067150335905834/devlogics-banner.png?ex=68929049&is=68913ec9&hm=ef4620c375f3348848e73f07dc131e4f62c0da8514b6df99ff32c9980aca5a2b&">
+<img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&">
 
 <!--
 **Achillesdevlogics/Achillesdevlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
