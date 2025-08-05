@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Aquiles 👋</h1>
-  <img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&" width="200px">
+  <img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&" width="500px">
   <br>
   <em><strong>“Driven by curiosity, powered by passion.”</strong></em>
 </div>
