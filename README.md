@@ -1,32 +1,31 @@
 <div align="center">
-    <h1 align="center">Hi there, i'm Aquiles 👋</h1>
+  <h1 align="center">Hi there, I'm Aquiles 👋</h1>
+  <img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&" width="200px">
+  <br>
+  <em><strong>“Driven by curiosity, powered by passion.”</strong></em>
 </div>
-<img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&">
 
-## About me 🧑‍💻
+---
 
-- 📚 Fullstack developer.
-- 💻 With deep mastery of JavaScript, CSS, HTML, C++, Java, Python, Assembly, and many other technologies, integrating technical precision with a creative and innovative mindset.
-- 🌍 International experience and academic recognition are integral parts of my professional background, underscoring both practical expertise and scholarly merit.
-- 🤝 Demonstrated capability to perform efficiently in both autonomous and team-oriented environments, applying Agile frameworks like Scrum to achieve accelerated and optimized project outcomes.
-- 🧠 Robust computational thinking cultivated through in-depth expertise in discrete mathematics, advanced data structures, algorithmic optimization, logical reasoning, and abstract problem-solving.
-- 📝 Exceptionally adaptable and a fast learner. I love learning—and when you truly love what you do, excellence becomes second nature.
+## 🧑‍💻 About Me
 
-## How to reach me 📨
+- 🌐 Fullstack Developer crafting seamless digital experiences.
+- 💻 Deep mastery of **JavaScript, CSS, HTML, C++, Java, Python, Assembly**, and more—blending precise logic with artistic innovation.
+- 🧠 Strong foundation in **discrete mathematics**, **algorithmic design**, and **computational theory**, enabling efficient, scalable problem-solving.
+- 🌍 International background paired with academic recognition, merging theory with real-world application.
+- 🤝 Skilled in solo and collaborative environments, using **Agile/Scrum** methodologies to deliver impactful solutions.
+- 🚀 Exceptionally adaptable and an insatiable learner. *When you truly love what you do, excellence becomes instinct.*
 
-- 📧 Work email: [aquiles.devlogics@gmail.com](mailto:aquiles.devlogics@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aquiles-devlogics)
-<!--
-**Achillesdevlogics/Achillesdevlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [aquiles.devlogics@gmail.com](mailto:aquiles.devlogics@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/aquiles-devlogics](https://www.linkedin.com/in/aquiles-devlogics)
+
+---
+
+## 🎓 Education
+
+- 🔰 Software engineer student at Universidad Catolica Andres Bello.
+- 📓 IBM credential at Web development: [Tap to see credential](https://www.credly.com/badges/c1b9130c-bbd7-4711-9676-801c1b9444f1/whatsapp)
