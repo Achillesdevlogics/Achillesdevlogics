@@ -3,11 +3,13 @@
 </div>
 <img src="https://cdn.discordapp.com/attachments/1369125852306210958/1402069684811206837/IMG_20250804_192352.jpg?ex=689292a6&is=68914126&hm=7a6d5aeb909e4b50d0d685531ca02494a1b032d4ecc7f58887a9b85efc3f3d43&">
 
-## About me 
+## About me 🧑‍💻
 
 - 📚 Fullstack developer.
 - 💻 With deep mastery of JavaScript, CSS, HTML, C++, Java, Python, Assembly, and many other technologies, integrating technical precision with a creative and innovative mindset.
 - 🌍 International experience and academic recognition are integral parts of my professional background, underscoring both practical expertise and scholarly merit.
+- 🤝 Demonstrated capability to perform efficiently in both autonomous and team-oriented environments, applying Agile frameworks like Scrum to achieve accelerated and optimized project outcomes.
+- 🧠 Robust computational thinking cultivated through in-depth expertise in discrete mathematics, advanced data structures, algorithmic optimization, logical reasoning, and abstract problem-solving.
 <!--
 **Achillesdevlogics/Achillesdevlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
