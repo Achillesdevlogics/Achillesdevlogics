@@ -10,10 +10,12 @@
 - 🌍 International experience and academic recognition are integral parts of my professional background, underscoring both practical expertise and scholarly merit.
 - 🤝 Demonstrated capability to perform efficiently in both autonomous and team-oriented environments, applying Agile frameworks like Scrum to achieve accelerated and optimized project outcomes.
 - 🧠 Robust computational thinking cultivated through in-depth expertise in discrete mathematics, advanced data structures, algorithmic optimization, logical reasoning, and abstract problem-solving.
+- 📝 Exceptionally adaptable and a fast learner. I love learning—and when you truly love what you do, excellence becomes second nature.
 
 ## How to reach me 📨
 
-- 📧 [aquiles.devlogics@gmail.com](mailto:aquiles.devlogics@gmail.com)
+- 📧 Work email: [aquiles.devlogics@gmail.com](mailto:aquiles.devlogics@gmail.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aquiles-devlogics)
 <!--
 **Achillesdevlogics/Achillesdevlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
